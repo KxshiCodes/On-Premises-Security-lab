@@ -12,7 +12,7 @@ The lab was eventually decommissioned after repeated stability and resource issu
 |---|---|
 | Windows Server | Active Directory, DNS, DHCP |
 | Windows 11 | Domain-joined endpoint |
-| Ubuntu Desktop | Linux endpoint |
+| Ubuntu 22.04 Desktop | Linux endpoint |
 | Wazuh | SIEM and centralised logging |
 | Security Onion | Network monitoring and IDS |
 | Kali Linux | Attack simulation |
