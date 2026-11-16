@@ -39,9 +39,9 @@ The lab was eventually decommissioned after repeated stability and resource issu
 
 ### Hardware Upgrade on my primary Lenovo laptop before completely upgrading to a MacBook Pro for more processor power.
 
-![Hardware Upgrade](hardware-update.heic)
+![Hardware Upgrade](hardware-update.jpg)
 
-![Hardware Upgrade](hardware-update2.heic)
+![Hardware Upgrade](hardware-update2.jpeg)
 
 ---
 
