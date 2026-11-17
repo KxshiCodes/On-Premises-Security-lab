@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
+
 # Enterprise Security Lab <img src="https://img.shields.io/badge/Status-Decommissioned-red" />
 
 Built a self-hosted Active Directory and security monitoring lab to better understand Windows infrastructure, SIEM pipelines, endpoint telemetry, and attack detection in a realistic enterprise scale environment.
